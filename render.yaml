@@ -18,4 +18,3 @@ databases:
     databaseName: realworld
     user: realworld_user
     plan: standard
-    postgresVersion: 14
